@@ -1,0 +1,17 @@
+[
+    {
+        "email":"ali1@gmail.com",
+        "password":"123456",
+        "newEmail":"ali11@gmail.com"
+    },
+     {
+        "email":"al12@gmail.com",
+        "password":"123456",
+        "newEmail":"ali22@gmail.com"
+    },
+     {
+        "email":"ali3@gmail.com",
+        "password":"123456",
+        "newEmail":"ali33@gmail.com"
+    }
+]

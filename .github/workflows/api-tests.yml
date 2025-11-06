@@ -21,3 +21,8 @@ jobs:
       - name: installation librairie
         run: npm install
 
+      - name: lancement de server
+        run: |
+          nohup node server.js > server.log 2>&1 &
+          sleep 5
+
